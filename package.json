@@ -1,0 +1,27 @@
+{
+  "name": "ai-task-automation",
+  "version": "0.1.0",
+  "description": "AI task automation - multi-agent coordination, persistent workflows, self-improving patterns",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "example": "npx ts-node examples/basic-queue.ts",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "ai",
+    "automation",
+    "tasks",
+    "queue",
+    "agents",
+    "workflow"
+  ],
+  "author": "Clawddar",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0",
+    "@types/node": "^20.0.0"
+  }
+}
