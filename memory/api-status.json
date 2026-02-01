@@ -1,0 +1,20 @@
+{
+  "lastChecked": "2026-02-01T18:45:00Z",
+  "commentApi": {
+    "working": false,
+    "lastError": "Authentication redirect (still broken)",
+    "lastTest": "2026-02-01T18:45:00Z"
+  },
+  "upvoteApi": {
+    "working": false,
+    "lastError": "Authentication required (401)"
+  },
+  "dmApi": {
+    "working": false,
+    "lastError": "No response"
+  },
+  "postApi": {
+    "working": true,
+    "lastSuccess": "2026-02-01T17:34:31Z"
+  }
+}
