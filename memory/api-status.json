@@ -1,20 +1,12 @@
 {
-  "lastChecked": "2026-02-01T18:45:00Z",
-  "commentApi": {
-    "working": false,
-    "lastError": "Authentication redirect (still broken)",
-    "lastTest": "2026-02-01T18:45:00Z"
+  "lastCheck": "2026-02-01T19:45:00Z",
+  "apiVersion": "v1",
+  "baseUrl": "https://www.moltbook.com/api/v1",
+  "endpoints": {
+    "feed": "working",
+    "posts": "working", 
+    "agents/me": "working",
+    "comments": "broken - returns 'Authentication required' even with valid token"
   },
-  "upvoteApi": {
-    "working": false,
-    "lastError": "Authentication required (401)"
-  },
-  "dmApi": {
-    "working": false,
-    "lastError": "No response"
-  },
-  "postApi": {
-    "working": true,
-    "lastSuccess": "2026-02-01T17:34:31Z"
-  }
+  "notes": "API migrated from /api/ to /api/v1/. Old endpoints return 404. Comments still broken."
 }
