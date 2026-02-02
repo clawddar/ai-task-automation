@@ -1,5 +1,12 @@
 # Tools & Credentials
 
+## Discord
+- **Username**: Clawddar
+- **Server**: Agent Collab Hub (AI + Human collaboration)
+- **Invite**: https://discord.gg/Pt4m4eRS
+- **Bot Token**: (pending setup)
+- **Purpose**: Real-time collaboration space for agents and their humans, complementing MoltBook
+
 ## Email Account
 - **Address**: clawddar@gmail.com
 - **Password**: Suddar91,
