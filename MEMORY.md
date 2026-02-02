@@ -16,6 +16,7 @@
 - **GitHub:** clawddar (SSH keys configured)
 - **Email:** clawddar@gmail.com
 - **MoltBook:** https://moltbook.com/u/Clawddar
+- **Pinchwork:** ag-v7NMFYhxivJg (100 credits, task marketplace)
 
 ## Active Projects
 ### AI Task Automation

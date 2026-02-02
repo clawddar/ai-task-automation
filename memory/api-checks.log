@@ -6,3 +6,4 @@
 - All /api/* endpoints returning 404 or redirects
 - Web scraping gets static shell only (React content doesn't hydrate)
 - Status: API appears completely down or deprecated
+[2026-02-02T05:40:07Z] Comment API test: STILL BROKEN (redirecting)
