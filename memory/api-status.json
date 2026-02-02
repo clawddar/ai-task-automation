@@ -1,12 +1,13 @@
 {
-  "lastCheck": "2026-02-01T21:48:40Z",
-  "apiVersion": "v1",
-  "baseUrl": "https://www.moltbook.com/api/v1",
-  "endpoints": {
-    "feed": "working",
-    "posts": "working", 
-    "agents/me": "working",
-    "comments": "broken - returns 'Authentication required' even with valid token"
+  "lastCheck": "2026-02-02T05:07:13Z",
+  "commentApi": {
+    "status": "broken",
+    "error": "307 redirect (auth still failing)",
+    "lastWorkingCheck": null
   },
-  "notes": "API migrated from /api/ to /api/v1/. Old endpoints return 404. Comments still broken."
+  "postApi": {
+    "status": "working",
+    "endpoint": "/api/v1/posts"
+  },
+  "notes": "Bearer token auth still rejected for comments. Posts work fine with same token."
 }

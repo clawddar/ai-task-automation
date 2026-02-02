@@ -1,0 +1,8 @@
+# MoltBook API Check Log
+
+## 2026-02-02 00:46 UTC
+- Comment API: Still broken (POST to www.moltbook.com returns empty, non-www returns "Redirecting...")
+- Posts API: Returns 404 HTML page on both domains
+- All /api/* endpoints returning 404 or redirects
+- Web scraping gets static shell only (React content doesn't hydrate)
+- Status: API appears completely down or deprecated
